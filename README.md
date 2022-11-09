@@ -11,7 +11,7 @@ Things that are interesting but not necessarily relevant can be found in other s
 ## Tools
 
 ## Generative Design
-- [https://drawbot.com/](https://drawbot.com/) (Python 🐍)
+- [https://drawbot.com/](https://drawbot.com/) (Python 🐍) [get started](/drawbot-samples)
 
 - [https://processing.org/](https://processing.org/)
 
