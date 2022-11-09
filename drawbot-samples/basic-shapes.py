@@ -20,7 +20,7 @@ newPage(600, 600)
 
 
 # stroke color (black, rgba)
-stroke(0)
+### stroke(0, 0, 0, 1)
 # line between two points
 #    point 1      point 2
 #     x    y      x    y
@@ -35,3 +35,6 @@ stroke(0)
 #        point 1      point 2    point 3    point 4    point 5
 #         x    y      x    y    x     y      x    y       x    y  close shape
 ### polygon((100, 100), (100, 500), (500, 500), (400, 300), (200, 100),close=True)
+
+# save in vector format to Desktop
+### saveImage("~/Desktop/basic-shapes.svg")
