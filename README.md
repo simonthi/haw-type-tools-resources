@@ -60,12 +60,12 @@ Things that are interesting but not necessarily relevant can be found in [other 
 
 ## 💾 Git (Versioning, Track changes)
 
-- [https://git-scm.com/](https://git-scm.com/) (Overview of git)
-- [https://github.com/](https://github.com/) (Git Service)
-- [https://desktop.github.com/](https://desktop.github.com/) (Git Client)
-- [https://bitbucket.org/](https://bitbucket.org/) (Git Service)
-- [https://gitlab.com](https://gitlab.com/) (Git Service)
-- [https://coderefinery.github.io/github-without-command-line/](https://coderefinery.github.io/github-without-command-line/) (Crash course for working with git)
+- [https://git-scm.com/](Overview of git)
+- [https://git.haw-hamburg.de/](HAW GitLab)
+- [https://github.com/](GitHub) 
+- [https://desktop.github.com/](GitHub Desktop App)
+- [https://bitbucket.org/](Bitbucket)
+- [https://coderefinery.github.io/github-without-command-line/](Crash course for working with git)
 
 ## Links
 
