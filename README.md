@@ -30,6 +30,7 @@ Things that are interesting but not necessarily relevant can be found in [other 
 ## #️⃣ Generative Design
 - [DrawBot](https://drawbot.com/) (Python 🐍) [get started](/drawbot-samples)
 - [Processing](https://processing.org/)
+- [p5.js](https://editor.p5js.org/)
 
 ## 🧊 3D
 - [Blender](https://www.blender.org/download/) plus the incredible [Coldtype/ST2](https://github.com/coldtype/st2/releases) plugin by Rob Stenson
