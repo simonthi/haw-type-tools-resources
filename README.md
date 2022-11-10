@@ -2,11 +2,11 @@
 A repository to host links, basic learning files and other stuff for students of type design classes @ HAW Hamburg
 
 # How to use this
-Tools shown in class can be found in the tools section.
+Tools shown in class can be found in the [tools](#tools) section.
 
-Other stuff referenced can be found in the links section.
+Other stuff referenced can be found in the [links](#links) section.
 
-Things that are interesting but not necessarily relevant can be found in other stuff.
+Things that are interesting but not necessarily relevant can be found in [other stuff](#other-stuff).
 
 # Tools
 
