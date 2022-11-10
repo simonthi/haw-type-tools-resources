@@ -17,13 +17,13 @@ Things that are interesting but not necessarily relevant can be found in other s
 
 ## Command line
 
-# Clients + Setup
+### Clients + Setup
 - Install [iTerm 2](https://iterm2.com/)
 - Install [brew](https://brew.sh/)
 - Install [ohmyzsh](https://ohmyz.sh/)
 - Install [Python manager](https://formulae.brew.sh/formula/pyenv#default) i.e. pyenv
 
-# Packages (mostly type design)
+### Packages (mostly type design)
 - [fonttools](https://github.com/fonttools/fonttools) also read the [intro](https://github.com/arrowtype/fonttools-intro) by Stephen Nixon 
 - [woff2](https://github.com/google/woff2)
 
