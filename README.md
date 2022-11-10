@@ -1,19 +1,39 @@
 # haw-type-tools-resources
 A repository to host links, basic learning files and other stuff for students of type design classes @ HAW Hamburg
 
-## How to use this
+# How to use this
 Tools shown in class can be found in the tools section.
 
 Other stuff referenced can be found in the links section.
 
 Things that are interesting but not necessarily relevant can be found in other stuff.
 
-## Tools
+# Tools
 
-## Generative Design
-- [https://drawbot.com/](https://drawbot.com/) (Python 🐍) [get started](/drawbot-samples)
+## Type design
+- [Glyphs](https://glyphsapp.com/buy)
+- [Fontlab](https://www.fontlab.com/font-editor/fontlab/)
+- [FontForge](https://fontforge.org/en-US/downloads/) (Open Source)
 
-- [https://processing.org/](https://processing.org/)
+## Command line
+
+# Clients + Setup
+- Install [iTerm 2](https://iterm2.com/)
+- Install [brew](https://brew.sh/)
+- Install [ohmyzsh](https://ohmyz.sh/)
+- Install [Python manager](https://formulae.brew.sh/formula/pyenv#default) i.e. pyenv
+
+# Packages (mostly type design)
+- [fonttools](https://github.com/fonttools/fonttools) also read the [intro](https://github.com/arrowtype/fonttools-intro) by Stephen Nixon 
+- [woff2](https://github.com/google/woff2)
+
+## #️⃣ Generative Design
+- [DrawBot](https://drawbot.com/) (Python 🐍) [get started](/drawbot-samples)
+- [Processing](https://processing.org/)
+
+## 🧊 3D
+- [Blender](https://www.blender.org/download/) plus the incredible [Coldtype/ST2](https://github.com/coldtype/st2/releases) plugin by Rob Stenson
+
 
 ## HTML & CSS
 
