@@ -1,0 +1,58 @@
+% THIS IS A REFERENCE FROM TU EINDHOVEN
+% https://www.win.tue.nl/~aeb/tex/mf/metafont.html
+
+mode_setup;
+
+% parameters are name, width, height over base line, depth below base line
+beginchar ("a", 10pt#, 12pt#, 0);
+
+  % placement vertical stem (left) and stem width
+  shl := 2.25pt;
+  sw := 3.33pt;
+
+  % serif end angle and width and height above bottom and prev height
+  sea := 105;
+  sew := 0.025h;
+  seb := 0.10h;
+  sdy := 0.075h;
+
+  % initial angles
+  a := 30;
+  ar := a+180-15;
+
+  % hor shift
+  w0 := w-1pt;
+  x0 := 0.5pt;
+
+  % define points
+  x1 = x0-0.05w0; y1 = 0.86h;
+  x2 = x0+0.6w0; y2=h-pt;
+  x4 = x5 = x8 = x0+w0-shl;
+  x9 = x0+w0;
+  y5 = 0.6h; z51 = z5;
+  x6 = x0+0.14w0; y6 = 0.32h;
+  x7 = x0+0.16w0; y7 = 0.077h;
+  y4 = 0.15h;
+  y8 = sdy;
+  y9 = seb;
+
+  % define pen angles
+  penpos1(0.05pt,120);
+  penpos2(sw,30);
+  penpos5(sw,30);
+  penpos51(0.05pt,300);
+  penpos6(sw,30);
+  penpos7(sw,30);
+  penpos4(0.2pt,120);
+  penpos8(sw,30);
+  penpos9(sew,sea);
+
+  penstroke z51e{dir ar}..z6e..tension 1.1..z7e
+    ..tension 1.3..{dir a}z4;
+  penstroke z1e{curl 0}..z2e..{down}z5e..{down}z8e
+    ..{down}z8e..tension 1.5..{curl 0}z9e;
+
+  penlabels(1,2,4,5,51,6,7,8,9);
+endchar;
+
+end
