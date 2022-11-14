@@ -12,7 +12,19 @@ However, here is a quick start version:
 - Enter ```mf2pt1 --designsize 12 a.mf```(replace ```a.mf``` with your Metafont file name) We use mf2pt1 here so you get file output in .pfb format that are editable in font editors of your choice.
 - View your Output in a font editor of your choice and congrats your first Metafont letters are done.
 
+## What is Metafont?
+
+In short: a description language to describe fonts. 
+
+For more in-depth reading I’ll sned you to read Knuth’s [introduction of Metafont](https://archive.org/details/the-concept-of-metafont/mode/2up) in Visible Language or the respective [Wikipedia article](https://en.wikipedia.org/wiki/Metafont).
+
 ## Resources
 
 - [TEX user group](https://www.tug.org/)
 - [Metafont examples](https://www.win.tue.nl/~aeb/tex/mf/metafont.html) (Used in [sample files](./metafont-samples))
+
+
+## Is Metafont still used?
+Well, sometimes. But have a look at some projects for yourselves:
+
+- [Subiaco by C-A-S-T](https://www.c-a-s-t.com/studies/subiaco/)
