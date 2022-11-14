@@ -72,4 +72,6 @@ Things that are interesting but not necessarily relevant can be found in [other 
 
 ## 🔗 Links
 
+Rosalie Wagner’s [type links](http://www.rosaliewagner.com/type-links/ target="_blank")
+
 ## Other stuff
