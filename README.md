@@ -14,6 +14,7 @@ Things that are interesting but not necessarily relevant can be found in [other 
 - [Glyphs](https://glyphsapp.com/buy)
 - [Fontlab](https://www.fontlab.com/font-editor/fontlab/)
 - [FontForge](https://fontforge.org/en-US/downloads/) (Open Source)
+- [Metafont](/metafont) (Open Source)
 
 ## Command line
 
