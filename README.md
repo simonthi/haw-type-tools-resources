@@ -23,6 +23,7 @@ Things that are interesting but not necessarily relevant can be found in [other 
 - Install [brew](https://brew.sh/)
 - Install [ohmyzsh](https://ohmyz.sh/)
 - Install [Python manager](https://formulae.brew.sh/formula/pyenv#default) i.e. pyenv
+- Read Frank Grießhammer's [Command line guide for type designers](https://github.com/frankrolf/git-for-type-designers)
 
 ### Packages (mostly type design)
 - [fonttools](https://github.com/fonttools/fonttools) also read the [intro](https://github.com/arrowtype/fonttools-intro) by Stephen Nixon 
