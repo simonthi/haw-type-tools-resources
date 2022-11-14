@@ -44,34 +44,34 @@ Things that are interesting but not necessarily relevant can be found in [other 
 
 📻️ **Online**
 
-- [https://codepen.io/pen/](https://codepen.io/pen/)
-- [https://jsfiddle.net](https://jsfiddle.net/)
+- [CodePen](https://codepen.io/pen/)
+- [JS Fiddle](https://jsfiddle.net/)
 
 🔌 **Offline**
 
-- Visual Studio Code [https://code.visualstudio.com](https://code.visualstudio.com/)
-- Brackets [https://brackets.io/](https://brackets.io/)
-- Atom [https://atom.io/](https://atom.io/)
-- Sublime Text [https://www.sublimetext.com/](https://www.sublimetext.com/)
-- BB Edit [https://www.barebones.com/products/bbedit/](https://www.barebones.com/products/bbedit/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Brackets](https://brackets.io/)
+- [Atom](https://atom.io/)
+- [Sublime Text](https://www.sublimetext.com/)
+- [BB Edit](https://www.barebones.com/products/bbedit/)
 
 ### 📃 CSS/HTML References and cheat sheets
 
-- [https://www.w3schools.com](https://www.w3schools.com/)
-- [https://css-tricks.com/](https://css-tricks.com/)
-- [https://developer.mozilla.org/en-US/docs/Web](https://developer.mozilla.org/en-US/docs/Web)
+- [W3Schools](https://www.w3schools.com/)
+- [CSS Tricks](https://css-tricks.com/)
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web)
 
 ## 💾 Git (Versioning, Track changes)
 
-- [https://git-scm.com/](Overview of git)
-- [https://git.haw-hamburg.de/](HAW GitLab)
-- [https://github.com/](GitHub) 
-- [https://desktop.github.com/](GitHub Desktop App)
-- [https://bitbucket.org/](Bitbucket)
-- [https://coderefinery.github.io/github-without-command-line/](Crash course for working with git)
+- [Overview of git](https://git-scm.com/)
+- [HAW GitLab](https://git.haw-hamburg.de/)
+- [GitHub](https://github.com/)
+- [GitHub Desktop App](https://desktop.github.com/)
+- [Bitbucket](https://bitbucket.org/)
+- [Crash course for working with git](https://coderefinery.github.io/github-without-command-line/)
 
 ## 🔗 Links
 
-Rosalie Wagner’s [type links](http://www.rosaliewagner.com/type-links/ target="_blank")
+Rosalie Wagner’s <a href="http://www.rosaliewagner.com/type-links/" target="_blank">type links</a>
 
 ## Other stuff
