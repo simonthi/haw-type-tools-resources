@@ -1,31 +1,31 @@
 # haw-type-tools-resources
 A repository to host links, basic learning files and other stuff for students of type design classes @ HAW Hamburg
 
-# How to use this
+# ℹ️ How to use this
 Tools shown in class can be found in the [tools](#tools) section.
 
 Other stuff referenced can be found in the [links](#links) section.
 
 Things that are interesting but not necessarily relevant can be found in [other stuff](#other-stuff).
 
-# Tools
+# 🛠️ Tools
 
-## Type design
+## 🔡 Type design
 - [Glyphs](https://glyphsapp.com/buy)
 - [Fontlab](https://www.fontlab.com/font-editor/fontlab/)
 - [FontForge](https://fontforge.org/en-US/downloads/) (Open Source)
 - [Metafont](/metafont) (Open Source)
 
-## Command line
+## ⌨️ Command line
 
-### Clients + Setup
+### 🪛 Clients + Setup
 - Install [iTerm 2](https://iterm2.com/)
 - Install [brew](https://brew.sh/)
 - Install [ohmyzsh](https://ohmyz.sh/)
 - Install [Python manager](https://formulae.brew.sh/formula/pyenv#default) i.e. pyenv
 - Read Frank Grießhammer's [Command line guide for type designers](https://github.com/frankrolf/git-for-type-designers)
 
-### Packages (mostly type design)
+### 📦 Packages (mostly type design)
 - [fonttools](https://github.com/fonttools/fonttools) also read the [intro](https://github.com/arrowtype/fonttools-intro) by Stephen Nixon 
 - [woff2](https://github.com/google/woff2)
 
@@ -38,7 +38,7 @@ Things that are interesting but not necessarily relevant can be found in [other 
 - [Blender](https://www.blender.org/download/) plus the incredible [Coldtype/ST2](https://github.com/coldtype/st2/releases) plugin by Rob Stenson
 
 
-## HTML & CSS
+## 📠 HTML & CSS
 
 ### ✏️ Editors
 
@@ -70,6 +70,6 @@ Things that are interesting but not necessarily relevant can be found in [other 
 - [https://bitbucket.org/](Bitbucket)
 - [https://coderefinery.github.io/github-without-command-line/](Crash course for working with git)
 
-## Links
+## 🔗 Links
 
 ## Other stuff
