@@ -11,7 +11,7 @@ Things that are interesting but not necessarily relevant can be found in [other 
 # 🛠️ Tools
 
 ## 🔡 Type design
-- [Glyphs](https://glyphsapp.com/buy)
+- [Glyphs](https://glyphsapp.com/buy) [get started](/glyphs)
 - [Fontlab](https://www.fontlab.com/font-editor/fontlab/)
 - [FontForge](https://fontforge.org/en-US/downloads/) (Open Source)
 - [Metafont](https://www.ctan.org/pkg/metafont) (Open Source) [get started](/metafont)
