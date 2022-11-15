@@ -1,7 +1,6 @@
-This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  14 NOV 2022 11:33
-**\mode:=localfont; mag:=83.3333333333333; bpppix 0.02; nonstopmode; input /Use
-rs/simonthiefes/Documents/103_Repos/haw-type-tools-resources/metafont/metafont-
-samples/a.mf
+This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  14 NOV 2022 17:47
+**\mode:=localfont; mag:=100; bpppix 0.02; nonstopmode; input /Users/simonthief
+es/Documents/103_Repos/haw-type-tools-resources/metafont/metafont-samples/a.mf
 (/usr/local/texlive/2022/texmf-dist/metapost/mf2pt1/mf2pt1.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/mfplain.mp
 Preloading the plain base, version 0.99: preliminaries,
