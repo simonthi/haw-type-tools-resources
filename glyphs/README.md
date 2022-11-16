@@ -7,8 +7,8 @@ This repo here will serve as a collection of »special operations«, so sample f
 
 ## Samples
 In this repo you can find the following sample files:
-### [Stackable color font](/glyphs-samples/LayerColorFont.glyphs)
+### [Stackable color font](./glyphs-samples/LayerColorFont.glyphs)
 Using OT features, to make a stackable color font, with a slider for each color layer.
 
-### [HOI playing field](/glyphs-samples/HOITest.glyphs)
+### [HOI playing field](./glyphs-samples/HOITest.glyphs)
 An intro to HOI (higher order interpolation). Play around with not being limited to interpolatin linearly.
