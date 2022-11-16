@@ -72,6 +72,18 @@ Things that are interesting but not necessarily relevant can be found in [other 
 
 ## 🔗 Links
 
-Rosalie Wagner’s <a href="http://www.rosaliewagner.com/type-links/" target="_blank">type links</a>
+- Rosalie Wagner’s <a href="http://www.rosaliewagner.com/type-links/" target="_blank">type links</a>
+
+- Tal Lemming’s [OpenType cookbook](https://opentypecookbook.com/)
 
 ## Other stuff
+
+<details><summary>### Terminology</summary>
+
+It can sometimes be hard to find your way around type terminology. Here are some explanations of the acronyms, abbreviations and intricacies of the type world.
+
+HOI — higher order interpolation
+
+OT — OpenType
+
+</details>
