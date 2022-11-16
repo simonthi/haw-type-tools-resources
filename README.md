@@ -6,7 +6,7 @@ Tools shown in class can be found in the [tools](#%EF%B8%8F-tools) section.
 
 Other stuff referenced can be found in the [links](#-links) section.
 
-Things that are interesting but not necessarily relevant can be found in [other stuff](#-other-stuff).
+Things that are interesting but not necessarily relevant can be found in [other stuff](#other-stuff).
 
 # 🛠️ Tools
 
@@ -78,7 +78,7 @@ Things that are interesting but not necessarily relevant can be found in [other 
 
 ## Other stuff
 
-<details><summary>### Terminology</summary>
+<details><summary>Terminology</summary>
 
 It can sometimes be hard to find your way around type terminology. Here are some explanations of the acronyms, abbreviations and intricacies of the type world.
 
