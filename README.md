@@ -16,6 +16,9 @@ Things that are interesting but not necessarily relevant can be found in [other 
 - [FontForge](https://fontforge.org/en-US/downloads/) (Open Source)
 - [Metafont](https://www.ctan.org/pkg/metafont) (Open Source) [get started](/metafont)
 
+### 📚 Excersises
+In the [exercises section](/exercises) you will find a growing number of small exercises that are used in class or that you can do on your own. Little descriptions/tasks are noted in the corresponding READMEs.
+
 ## ⌨️ Command line
 
 ### 🪛 Clients + Setup
