@@ -8,7 +8,7 @@ Sometimes we do little exercises in class, find them in the [exercises](#-excers
 
 Other stuff referenced can be found in the [links](#-links) section.
 
-Things that are interesting but not necessarily relevant can be found in [other stuff](#other-stuff).
+Things that are interesting but not necessarily relevant can be found in [other stuff](#-other-stuff).
 
 # 🛠️ Tools
 
