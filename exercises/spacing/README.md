@@ -4,4 +4,9 @@ In this folder you can find both a Glyphs file and an otf of [Baskervville] a re
 
 For further information on spacing, read the well written [introduction](https://github.com/arrowtype/spacing) by Stephen Nixon.
 
+## Tools for generating spacing/proofing strings
+- [adhesiontext](https://adhesiontext.com/)
+- Nina Stösinger’d [Word-o-Mat](https://github.com/ninastoessinger/word-o-mat)
+- Kyle Wayne Benson’s [Idito proofed](https://idiotproofed.com/)
+
 The font files underly the OFL license as the original font by ANRT. A copy of the license can be found [here](https://github.com/anrt-type/ANRT-Baskervville/blob/master/LICENSE.txt).
