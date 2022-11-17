@@ -5,6 +5,7 @@ In this folder you can find both a Glyphs file and an otf of [Baskervville] a re
 For further information on spacing, read the well written [introduction](https://github.com/arrowtype/spacing) by Stephen Nixon.
 
 ## Tools for generating spacing/proofing strings
+- James Edmondson’s [Tips for prrofing](https://ohnotype.co/blog/proof-it)
 - Miguel Sosa’s [adhesiontext](https://adhesiontext.com/)
 - Ondrej Jób’s [Typable](https://www.setuptype.com/x/typable/) and [Context od diacritics](https://www.setuptype.com/x/cod/)
 - Nina Stösinger’d [Word-o-Mat](https://github.com/ninastoessinger/word-o-mat)
