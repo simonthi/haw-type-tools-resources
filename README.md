@@ -81,7 +81,7 @@ In the [exercises section](/exercises) you will find a growing number of small e
 
 - Tal Lemming’s [OpenType cookbook](https://opentypecookbook.com/)
 
-# Other stuff
+# 🧰 Other stuff
 
 <details><summary>Terminology</summary>
 
