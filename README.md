@@ -4,6 +4,8 @@ A repository to host links, basic learning files and other stuff for students of
 # ℹ️ How to use this
 Tools shown in class can be found in the [tools](#%EF%B8%8F-tools) section.
 
+Sometimes we do little exercises in class, finde them in [exercises](#📚 Excersises) section. (You’re also allowed to do them at home 😉)
+
 Other stuff referenced can be found in the [links](#-links) section.
 
 Things that are interesting but not necessarily relevant can be found in [other stuff](#other-stuff).
@@ -15,9 +17,6 @@ Things that are interesting but not necessarily relevant can be found in [other 
 - [Fontlab](https://www.fontlab.com/font-editor/fontlab/)
 - [FontForge](https://fontforge.org/en-US/downloads/) (Open Source)
 - [Metafont](https://www.ctan.org/pkg/metafont) (Open Source) [get started](/metafont)
-
-### 📚 Excersises
-In the [exercises section](/exercises) you will find a growing number of small exercises that are used in class or that you can do on your own. Little descriptions/tasks are noted in the corresponding READMEs.
 
 ## ⌨️ Command line
 
@@ -73,6 +72,9 @@ In the [exercises section](/exercises) you will find a growing number of small e
 - [Bitbucket](https://bitbucket.org/)
 - [Crash course for working with git](https://coderefinery.github.io/github-without-command-line/)
 
+# 📚 Excersises
+In the [exercises section](/exercises) you will find a growing number of small exercises that are used in class or that you can do on your own. Little descriptions/tasks are noted in the corresponding READMEs.
+
 ## 🔗 Links
 
 - Rosalie Wagner’s <a href="http://www.rosaliewagner.com/type-links/" target="_blank">type links</a>
@@ -87,6 +89,10 @@ It can sometimes be hard to find your way around type terminology. Here are some
 
 HOI — higher order interpolation
 
+LSB — Left Side Bearing
+
 OT — OpenType
+
+RSB — Right Side Bearing
 
 </details>
