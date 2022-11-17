@@ -6,6 +6,7 @@ For further information on spacing, read the well written [introduction](https:/
 
 ## Tools for generating spacing/proofing strings
 - Miguel Sosa’s [adhesiontext](https://adhesiontext.com/)
+- Ondrej Jób’s [Typable](https://www.setuptype.com/x/typable/) and [Context od diacritics](https://www.setuptype.com/x/cod/)
 - Nina Stösinger’d [Word-o-Mat](https://github.com/ninastoessinger/word-o-mat)
 - Kyle Wayne Benson’s [Idiot Proofed](https://idiotproofed.com/)
 
