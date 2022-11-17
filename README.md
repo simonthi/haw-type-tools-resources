@@ -4,7 +4,7 @@ A repository to host links, basic learning files and other stuff for students of
 # ℹ️ How to use this
 Tools shown in class can be found in the [tools](#%EF%B8%8F-tools) section.
 
-Sometimes we do little exercises in class, finde them in [exercises](#📚 Excersises) section. (You’re also allowed to do them at home 😉)
+Sometimes we do little exercises in class, find them in the [exercises](#-excersises) section. (You’re also allowed to do them at home 😉)
 
 Other stuff referenced can be found in the [links](#-links) section.
 
