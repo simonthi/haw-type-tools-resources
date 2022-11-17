@@ -75,13 +75,13 @@ Things that are interesting but not necessarily relevant can be found in [other 
 # 📚 Excersises
 In the [exercises section](/exercises) you will find a growing number of small exercises that are used in class or that you can do on your own. Little descriptions/tasks are noted in the corresponding READMEs.
 
-## 🔗 Links
+# 🔗 Links
 
 - Rosalie Wagner’s <a href="http://www.rosaliewagner.com/type-links/" target="_blank">type links</a>
 
 - Tal Lemming’s [OpenType cookbook](https://opentypecookbook.com/)
 
-## Other stuff
+# Other stuff
 
 <details><summary>Terminology</summary>
 
