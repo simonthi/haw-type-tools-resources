@@ -4,9 +4,11 @@ A repository to host links, basic learning files and other stuff for students of
 # ℹ️ How to use this
 Tools shown in class can be found in the [tools](#%EF%B8%8F-tools) section.
 
+Sometimes we do little exercises in class, find them in the [exercises](#-excersises) section. (You’re also allowed to do them at home 😉)
+
 Other stuff referenced can be found in the [links](#-links) section.
 
-Things that are interesting but not necessarily relevant can be found in [other stuff](#other-stuff).
+Things that are interesting but not necessarily relevant can be found in [other stuff](#-other-stuff).
 
 # 🛠️ Tools
 
@@ -15,9 +17,6 @@ Things that are interesting but not necessarily relevant can be found in [other 
 - [Fontlab](https://www.fontlab.com/font-editor/fontlab/)
 - [FontForge](https://fontforge.org/en-US/downloads/) (Open Source)
 - [Metafont](https://www.ctan.org/pkg/metafont) (Open Source) [get started](/metafont)
-
-### 📚 Excersises
-In the [exercises section](/exercises) you will find a growing number of small exercises that are used in class or that you can do on your own. Little descriptions/tasks are noted in the corresponding READMEs.
 
 ## ⌨️ Command line
 
@@ -31,6 +30,13 @@ In the [exercises section](/exercises) you will find a growing number of small e
 ### 📦 Packages (mostly type design)
 - [fonttools](https://github.com/fonttools/fonttools) also read the [intro](https://github.com/arrowtype/fonttools-intro) by Stephen Nixon 
 - [woff2](https://github.com/google/woff2)
+- [fontbakery](https://github.com/googlefonts/fontbakery/)
+
+## 🗜️ Testing
+Testing your fonts is crucial. Listed below are some tools to test your (variable) fonts.
+- [FontGoggles](https://fontgoggles.org/)
+- [FontGauntlet](https://fontgauntlet.com/)
+- [Check Browser Compatibility for Color Font Formats](https://pixelambacht.nl/chromacheck/)
 
 ## #️⃣ Generative Design
 - [DrawBot](https://drawbot.com/) (Python 🐍) [get started](/drawbot-samples)
@@ -73,13 +79,16 @@ In the [exercises section](/exercises) you will find a growing number of small e
 - [Bitbucket](https://bitbucket.org/)
 - [Crash course for working with git](https://coderefinery.github.io/github-without-command-line/)
 
-## 🔗 Links
+# 📚 Excersises
+In the [exercises section](/exercises) you will find a growing number of small exercises that are used in class or that you can do on your own. Little descriptions/tasks are noted in the corresponding READMEs.
+
+# 🔗 Links
 
 - Rosalie Wagner’s <a href="http://www.rosaliewagner.com/type-links/" target="_blank">type links</a>
 
 - Tal Lemming’s [OpenType cookbook](https://opentypecookbook.com/)
 
-## Other stuff
+# 🧰 Other stuff
 
 <details><summary>Terminology</summary>
 
@@ -87,6 +96,10 @@ It can sometimes be hard to find your way around type terminology. Here are some
 
 HOI — higher order interpolation
 
+LSB — Left Side Bearing
+
 OT — OpenType
+
+RSB — Right Side Bearing
 
 </details>
