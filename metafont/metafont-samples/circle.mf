@@ -1,0 +1,22 @@
+mode_setup;
+
+% parameters are name, width, height over base line, depth below base line
+beginchar ("a", 9pt#, 12pt#, 0);
+    alpha:=1;
+    beta:=1;
+
+    % define points
+    x1 = w/2; y1 = 0;
+    x2 = w; y2 = h/2;
+    x3 = w/2; y3 = h;
+    x4 = 0; y4 = h/2;
+
+    % define pen
+    pickup pencircle xscaled 0.2w yscaled 0.01w rotated 60;
+
+    % draw
+    draw z1{right}..z2{up}..z3{left}..z4{down}..z1;
+    penlabels(1,2,3,4);
+endchar;
+
+end
