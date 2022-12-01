@@ -31,6 +31,7 @@ Things that are interesting but not necessarily relevant can be found in [other 
 - [fonttools](https://github.com/fonttools/fonttools) also read the [intro](https://github.com/arrowtype/fonttools-intro) by Stephen Nixon 
 - [woff2](https://github.com/google/woff2)
 - [fontbakery](https://github.com/googlefonts/fontbakery/)
+- [AFDKO](https://github.com/adobe-type-tools/afdko)
 
 ## 🗜️ Testing
 Testing your fonts is crucial. Listed below are some tools to test your (variable) fonts.
