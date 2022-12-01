@@ -38,6 +38,13 @@ Testing your fonts is crucial. Listed below are some tools to test your (variabl
 - [FontGoggles](https://fontgoggles.org/)
 - [FontGauntlet](https://fontgauntlet.com/)
 - [Check Browser Compatibility for Color Font Formats](https://pixelambacht.nl/chromacheck/)
+- Test your font as your browser font with Stephen Nixon’s [Type-X](https://github.com/arrowtype/type-x)
+
+## 🧐 Proofing
+Proofing is like testing your font but in a structured way (spacing, kerning, etc.)
+- Read James Edmondson’s Intro [Proof it!](https://ohnotype.co/blog/proof-it)
+- [Creating proofs for lazy ones](https://idiotproofed.com/)
+- tbc
 
 ## #️⃣ Generative Design
 - [DrawBot](https://drawbot.com/) (Python 🐍) [get started](/drawbot-samples)
