@@ -19,7 +19,7 @@ In short: a description language to describe fonts.
 For more in-depth reading I’ll sned you to read Knuth’s [introduction of Metafont](https://archive.org/details/the-concept-of-metafont/mode/2up) in Visible Language or the respective [Wikipedia article](https://en.wikipedia.org/wiki/Metafont).
 
 ## Resources
-
+- Donald Knuth’s [METAFONTbook](https://archive.org/details/metafontbook00knut/mode/2up)
 - [TEX user group](https://www.tug.org/)
 - [Metafont examples](https://www.win.tue.nl/~aeb/tex/mf/metafont.html) (Used in [sample files](./metafont-samples))
 
