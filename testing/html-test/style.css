@@ -1,0 +1,27 @@
+@font-face {
+    font-family: Testfont;
+    src: url("OctagonVariable-NORMAL.ttf");
+    font-display: swap;
+}
+
+
+body { 
+    font-family: Testfont;
+}
+
+
+/* Styling the paragraph text*/
+/*
+p {
+    font-size: 1rem;
+}
+*/
+
+
+/* Styling the Heading*/
+/*
+h1 {
+    font-size: 2.4rem;
+    line-height: 1;
+}
+*/
