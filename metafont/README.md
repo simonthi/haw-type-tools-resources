@@ -16,7 +16,7 @@ However, here is a quick start version:
 
 In short: a description language to describe fonts. 
 
-For more in-depth reading I’ll sned you to read Knuth’s [introduction of Metafont](https://archive.org/details/the-concept-of-metafont/mode/2up) in Visible Language or the respective [Wikipedia article](https://en.wikipedia.org/wiki/Metafont).
+For more in-depth reading I’ll send you to read Knuth’s [introduction of Metafont](https://archive.org/details/the-concept-of-metafont/mode/2up) in Visible Language or the respective [Wikipedia article](https://en.wikipedia.org/wiki/Metafont).
 
 ## Resources
 - Donald Knuth’s [METAFONTbook](https://archive.org/details/metafontbook00knut/mode/2up)
